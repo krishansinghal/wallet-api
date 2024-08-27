@@ -1,7 +1,7 @@
 # Wallet_api
 
 This is wallet API built with Node.js, MongoDB, Mongoose, Express.js, and JWT(JSON Web Token) for the session management.
-The user can register, login, transfer and retrieve the transaction detials using the api and admin can see all transaction details.
+The user can register, login, transfer and retrieve the transaction details using the api and admin can see all transaction details.
 
 ## SETUP
 
