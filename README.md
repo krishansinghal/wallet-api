@@ -8,7 +8,7 @@ The user can register, login, transfer and retrieve the transaction details usin
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/krishansinghal/wallet-api
    ```
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ The user can register, login, transfer and retrieve the transaction details usin
    npm start
    ```
 
-   It'll start the servera and the server should be running on `http://localhost:3000`.
+   It'll start the server and the server should be running on `http://localhost:3000`.
 
 ## Working
 
